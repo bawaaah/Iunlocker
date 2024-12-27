@@ -1,6 +1,6 @@
-import Image1 from "../assets/Image1.png";
-import Image2 from "../assets/Image2.png";
-import Image3 from "../assets/Image3.png";
+import Image1 from "../assets/image1.png";
+import Image2 from "../assets/image2.png";
+import Image3 from "../assets/image3.png";
 
 const ProductList = () => {
   const products = [

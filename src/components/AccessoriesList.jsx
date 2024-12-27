@@ -1,6 +1,6 @@
-import Image4 from "../assets/Image4.png";
-import Image5 from "../assets/Image5.png";
-import Image6 from "../assets/Image6.png";
+import Image4 from "../assets/image4.png";
+import Image5 from "../assets/image5.png";
+import Image6 from "../assets/image6.png";
 
 const AccessoriesList = () => {
     const accessories = [
