@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import HeroSection from "./components/HeroSection";
+import HeroSection from "./components/heroSection";
 import Navbar from "./components/NavBar";
 import ProductList from "./components/ProductList";
 import AccessoriesList from "./components/AccessoriesList";
